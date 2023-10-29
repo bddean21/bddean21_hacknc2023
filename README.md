@@ -1,1 +1,47 @@
+Information Sources: 
+https://en.wikipedia.org/wiki/Tibia
+https://en.wikipedia.org/wiki/Carpal_bones
+https://en.wikipedia.org/wiki/Clavicle
+https://en.wikipedia.org/wiki/Femur
+https://en.wikipedia.org/wiki/Fibula
+https://en.wikipedia.org/wiki/Humerus
+https://en.wikipedia.org/wiki/Mandible
+https://en.wikipedia.org/wiki/Metacarpal_bones
+https://en.wikipedia.org/wiki/Metatarsal_bones
+https://en.wikipedia.org/wiki/Patella
+https://en.wikipedia.org/wiki/Pelvis
+https://en.wikipedia.org/wiki/Phalanx_bone
+https://en.wikipedia.org/wiki/Radius_(bone)
+https://en.wikipedia.org/wiki/Rib_cage
+https://en.wikipedia.org/wiki/Sacrum
+https://en.wikipedia.org/wiki/Scapula
+https://en.wikipedia.org/wiki/Skull
+https://en.wikipedia.org/wiki/Vertebral_column
+https://en.wikipedia.org/wiki/Sternum
+https://en.wikipedia.org/wiki/Tarsus_(skeleton)
+https://en.wikipedia.org/wiki/Ulna
 
+Image Sources:
+https://www.rawpixel.com/search/public%20domain%20skeleton?page=1&path=_topics%7C%242%3A3&sort=curated
+https://commons.wikimedia.org/wiki/File:Carpus_%28left_hand%29_11_palmar_view.png
+https://commons.wikimedia.org/wiki/File:Clavicle_-_anterior_view3.png
+https://commons.wikimedia.org/wiki/File:Femur_-_anterior_view3.png
+https://commons.wikimedia.org/wiki/File:Fibula_-_lateral_view.png
+https://commons.wikimedia.org/wiki/File:Humerus_-_anterior_view2.png
+https://commons.wikimedia.org/wiki/File:Body_of_mandible_-_close_up_-_anterior_view.png
+https://commons.wikimedia.org/wiki/File:Metacarpal_bones_%28left_hand%29_01_palmer_view.png
+https://commons.wikimedia.org/wiki/File:Left_Metatarsal_bones02_lateral_view.png
+https://commons.wikimedia.org/wiki/File:Patellar_dislocation.svg
+https://commons.wikimedia.org/wiki/File:Pelvis_%28male%29_02_-_anterior_view.png
+https://commons.wikimedia.org/wiki/File:Phalanges_of_the_foot04a_superior_view.png
+https://commons.wikimedia.org/wiki/File:Phalanges_of_the_hand_%28left_hand%29_02_dorsal_view.png
+https://commons.wikimedia.org/wiki/File:Radius_-_posterior_view.png
+https://commons.wikimedia.org/wiki/File:Ribs_back2.png
+https://commons.wikimedia.org/wiki/File:Sacrum_-_posterior_view00.png
+https://commons.wikimedia.org/wiki/File:Scapula_-_anterior_view.png
+https://www.flickr.com/photos/liverpoolhls/10818428766
+https://commons.wikimedia.org/wiki/File:Spinal_column_curvature_virgin.svg
+https://commons.wikimedia.org/wiki/File:Body_of_sternum_frontal2.png
+https://commons.wikimedia.org/wiki/File:Left_Tarsal_bones03_lateral_view.png
+https://commons.wikimedia.org/wiki/File:Tibia_-_lateral_view.png
+https://commons.wikimedia.org/wiki/File:Ulna_-_anterior_view2.png
