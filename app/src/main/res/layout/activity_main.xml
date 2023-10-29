@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="550dp"
+        android:layout_height="1000dp"
+        android:src="@drawable/skeleton"
+        android:layout_marginLeft = "-70dp"
+        android:layout_marginTop = "-150dp"
+        android:alpha="0.5"
+     />
+
+    <TextView
+        android:id="@+id/phalanges"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="phalanges"
+        android:text="PHALANGES"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+
+        android:layout_marginLeft = "161dp"
+        android:layout_marginTop = "680dp"
+   />
+
+    <TextView
+        android:id="@+id/metatarsals"
+        android:layout_width="54dp"
+        android:layout_height="48dp"
+        android:onClick="metatarsals"
+        android:text="METATARSALS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="204dp"
+        android:layout_marginTop="665dp"
+    />
+
+    <TextView
+        android:id="@+id/tarsals"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="tarsals"
+        android:text="TARSALS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="168dp"
+        android:layout_marginTop="645dp"
+       />
+
+    <TextView
+        android:id="@+id/tibia"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="tibia"
+        android:text="TIBIA"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="217dp"
+        android:layout_marginTop="500dp"
+       />
+
+    <TextView
+        android:id="@+id/fibula"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="fibula"
+        android:text="FIBULA"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="224dp"
+        android:layout_marginTop="557dp"
+   />
+
+    <TextView
+        android:id="@+id/patella"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="patella"
+        android:text="PATELLA"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="168dp"
+        android:layout_marginTop="480dp"
+         />
+
+    <TextView
+        android:id="@+id/sacrum"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="sacrum"
+        android:text="SACRUM"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="186dp"
+        android:layout_marginTop="295dp"
+    />
+
+    <TextView
+        android:id="@+id/pelvis"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="pelvis"
+        android:text="PELVIS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="234dp"
+        android:layout_marginTop="283dp"
+      />
+
+    <TextView
+        android:id="@+id/spine"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="spine"
+        android:text="SPINE"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="194dp"
+        android:layout_marginTop="227dp"
+     />
+
+    <TextView
+        android:id="@+id/ribcage"
+        android:layout_width="83dp"
+        android:layout_height="48dp"
+        android:onClick="ribcage"
+        android:text="RIB CAGE"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="202dp"
+      />
+
+    <TextView
+        android:id="@+id/sternum"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="sternum"
+        android:text="STERNUM"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="184dp"
+        android:layout_marginTop="160dp"
+    />
+
+    <TextView
+        android:id="@+id/femur"
+        android:layout_width="83dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="225dp"
+        android:layout_marginTop="425dp"
+        android:onClick="femur"
+        android:text="FEMUR"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/scapula"
+        android:layout_width="83dp"
+        android:layout_height="48dp"
+        android:onClick="scapula"
+        android:text="SCAPULA"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="142dp"
+        android:layout_marginTop="129dp"
+      />
+
+    <TextView
+        android:id="@+id/clavicle"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="clavicle"
+        android:text="CLAVICLE"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="215dp"
+        android:layout_marginTop="118dp"
+   />
+
+    <TextView
+        android:id="@+id/mandible"
+        android:layout_width="83dp"
+        android:layout_height="48dp"
+        android:onClick="mandible"
+        android:text="MANDIBLE"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="184dp"
+        android:layout_marginTop="68dp"
+      />
+
+    <TextView
+        android:id="@+id/skull"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="skull"
+        android:text="SKULL"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="191dp"
+        android:layout_marginTop="18dp"
+     />
+
+    <TextView
+        android:id="@+id/radius"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="radius"
+        android:text="RADIUS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="284dp"
+        android:layout_marginTop="316dp"
+    />
+
+    <TextView
+        android:id="@+id/ulna"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="ulna"
+        android:text="ULNA"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="284dp"
+        android:layout_marginTop="270dp"
+       />
+
+    <TextView
+        android:id="@+id/carpals"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="carpals"
+        android:text="CARPALS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="350dp"
+    />
+
+    <TextView
+        android:id="@+id/metacarpals"
+        android:layout_width="59dp"
+        android:layout_height="48dp"
+        android:onClick="metacarpals"
+        android:text="METACARPALS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="274dp"
+        android:layout_marginTop="375dp"
+ />
+
+    <TextView
+        android:id="@+id/phalanges2"
+        android:layout_width="53dp"
+        android:layout_height="48dp"
+        android:onClick="phalanges2"
+        android:text="PHALANGES"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="105dp"
+        android:layout_marginTop="400dp"
+        />
+
+    <TextView
+        android:id="@+id/humerus"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:onClick="humerus"
+        android:text="HUMERUS"
+        android:textColor="#FF0000"
+        android:textSize="7.5sp"
+        android:textStyle="bold"
+        android:layout_marginLeft="274dp"
+        android:layout_marginTop="220dp"
+         />
+
+</FrameLayout>
